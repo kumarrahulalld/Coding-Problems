@@ -4,14 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb41c961-1973-4e63-9874-ea30168f56c8" name="Changes" comment="" />
+    <list default="true" id="cb41c961-1973-4e63-9874-ea30168f56c8" name="Changes" comment="Created Repo.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrimeNumbers/BruteForceApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrimeNumbers/SqrtApproach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CFJBSbHKBhN0IcH7ikpro2GrRL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,6 +41,40 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.SqrtApproach">
+    <configuration name="BruteForceApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumbers.BruteForceApproach" />
+      <module name="Coding-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrimeNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqrtApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumbers.SqrtApproach" />
+      <module name="Coding-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrimeNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SqrtApproach" />
+        <item itemvalue="Application.BruteForceApproach" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,9 +83,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658392269609</updated>
-      <workItem from="1658392272777" duration="1000" />
+      <workItem from="1658392272777" duration="1613000" />
     </task>
+    <task id="LOCAL-00001" summary="Created Repo.">
+      <created>1658392375950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658392375950</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -48,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Repo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Repo." />
   </component>
 </project>
