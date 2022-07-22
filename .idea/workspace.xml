@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb41c961-1973-4e63-9874-ea30168f56c8" name="Changes" comment="Created Programs Related To Bit Manipulation.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BitMagic/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BitMagic/SingleElement.java" afterDir="false" />
+    <list default="true" id="cb41c961-1973-4e63-9874-ea30168f56c8" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/PrimeNumbers/SqrtApproach.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrimeNumbers/SqrtApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrimeNumbers/SqrtApproach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BitMagic/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BitMagic/MissingNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.MissingNumber">
     <configuration name="BruteForceApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeNumbers.BruteForceApproach" />
@@ -111,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658392269609</updated>
-      <workItem from="1658392272777" duration="3396000" />
+      <workItem from="1658392272777" duration="4007000" />
     </task>
     <task id="LOCAL-00001" summary="Created Repo.">
       <created>1658392375950</created>
@@ -127,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658411059666</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created Programs Related To Prime Numbers.">
+      <created>1658498870444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658498870444</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/PrimeNumbers/SqrtApproach.java">
+      <created>1658499069659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658499069659</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +150,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -146,8 +170,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Repo." />
-    <MESSAGE value="Created Programs Related To Prime Numbers." />
     <MESSAGE value="Created Programs Related To Bit Manipulation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Programs Related To Bit Manipulation." />
+    <MESSAGE value="Created Programs Related To Prime Numbers." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/PrimeNumbers/SqrtApproach.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/PrimeNumbers/SqrtApproach.java" />
   </component>
 </project>

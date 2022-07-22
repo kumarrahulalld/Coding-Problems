@@ -1,6 +1,8 @@
 package BitMagic;
 
 public class MissingNumber {
+    // Time Complexity - O(N)
+    // Space Complexity - O(1)
 
     static int findMissingNumber(int [] inputArray)
     {
