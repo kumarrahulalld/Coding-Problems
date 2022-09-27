@@ -13,7 +13,6 @@ public:
             int currentNum=nums[queries[i][1]];
             if((currentNum&1)==0)
             {
-                //cout<<i<<" even"<<endl;
                 if((queries[i][0]&1)==0)
                     esum+=queries[i][0];
                 else
@@ -22,7 +21,7 @@ public:
             else
             {
                 if((queries[i][0]&1)==1)
-                    esum+=queries[i][0]+nums[queries[i][1]];
+                    esum+=queries[i][0]+currentNum;
                     
             }
             nums[queries[i][1]]+=queries[i][0];
