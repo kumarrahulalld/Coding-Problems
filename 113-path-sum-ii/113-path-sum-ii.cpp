@@ -14,8 +14,7 @@ public:
     vector<vector<int>> result;
     void trav(TreeNode* root,int target,vector<int> &path)
     {
-        if(root==NULL)
-            return;
+        if(root){
         path.push_back(root->val);
         if(root->left)
         trav(root->left,target-root->val,path);
@@ -24,6 +23,8 @@ public:
         if(root->left==NULL && root->right==NULL && root->val==target)
             result.push_back(path);
         path.pop_back();
+        }
+        return;
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         result.clear();
