@@ -17,12 +17,12 @@ public:
         if(root==NULL)
             return;
         path.push_back(root->val);
-        if(root->left==NULL && root->right==NULL && root->val==target)
-            result.push_back(path);
         if(root->left)
         trav(root->left,target-root->val,path);
         if(root->right)
             trav(root->right,target-root->val,path);
+        if(root->left==NULL && root->right==NULL && root->val==target)
+            result.push_back(path);
         path.pop_back();
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
